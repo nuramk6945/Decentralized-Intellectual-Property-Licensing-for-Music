@@ -5,3 +5,5 @@ P
  contracts/song-registration.clar,0/3/03a8a9c51418b7df34bc9654a4e8bef126d13de0
 O
 tests/song-registration.test.ts,a/2/a2ac17e3b97035fcbc3ac1e38ed938afd6224b42
+N
+contracts/licensing-terms.clar,a/e/ae6af3ee651cf3d4d61c81bf81c9580a23038d50
