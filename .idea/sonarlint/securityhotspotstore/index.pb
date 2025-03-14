@@ -7,3 +7,5 @@ O
 tests/song-registration.test.ts,a/2/a2ac17e3b97035fcbc3ac1e38ed938afd6224b42
 N
 contracts/licensing-terms.clar,a/e/ae6af3ee651cf3d4d61c81bf81c9580a23038d50
+S
+#contracts/royalty-distribution.clar,9/9/995e55fe213df7ff94d708e34d0568520c645601

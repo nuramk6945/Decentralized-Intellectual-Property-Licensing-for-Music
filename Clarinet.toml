@@ -10,6 +10,11 @@ path = 'contracts/licensing-terms.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.royalty-distribution]
+path = 'contracts/royalty-distribution.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.song-registration]
 path = 'contracts/song-registration.clar'
 clarity_version = 2
